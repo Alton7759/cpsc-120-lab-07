@@ -5,7 +5,7 @@
 // @jnd323
 //
 // Lab 06-01
-// Partners: @FrankiePaniagua004
+// Partners: @FrankiePaniagua004 @deborahjoneshappy @jnd323
 //
 // In this program we use loops to make a cool pattern.
 //
